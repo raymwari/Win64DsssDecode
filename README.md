@@ -1,6 +1,3 @@
-# win64_dsss_decode
-Continued ...
-
 ## Prerequisites:
 https://github.com/raymwari/win64_dsss_encode <br>
 https://www.nasm.us  <br>
